@@ -1,0 +1,11 @@
+C:\Users\Tangol\source\repos\ExamenAmazon\ExamenAmazon\bin\Debug\netcoreapp3.1\ExamenAmazon.exe
+C:\Users\Tangol\source\repos\ExamenAmazon\ExamenAmazon\bin\Debug\netcoreapp3.1\ExamenAmazon.deps.json
+C:\Users\Tangol\source\repos\ExamenAmazon\ExamenAmazon\bin\Debug\netcoreapp3.1\ExamenAmazon.runtimeconfig.json
+C:\Users\Tangol\source\repos\ExamenAmazon\ExamenAmazon\bin\Debug\netcoreapp3.1\ExamenAmazon.runtimeconfig.dev.json
+C:\Users\Tangol\source\repos\ExamenAmazon\ExamenAmazon\bin\Debug\netcoreapp3.1\ExamenAmazon.dll
+C:\Users\Tangol\source\repos\ExamenAmazon\ExamenAmazon\bin\Debug\netcoreapp3.1\ExamenAmazon.pdb
+C:\Users\Tangol\source\repos\ExamenAmazon\ExamenAmazon\obj\Debug\netcoreapp3.1\ExamenAmazon.csprojAssemblyReference.cache
+C:\Users\Tangol\source\repos\ExamenAmazon\ExamenAmazon\obj\Debug\netcoreapp3.1\ExamenAmazon.AssemblyInfoInputs.cache
+C:\Users\Tangol\source\repos\ExamenAmazon\ExamenAmazon\obj\Debug\netcoreapp3.1\ExamenAmazon.AssemblyInfo.cs
+C:\Users\Tangol\source\repos\ExamenAmazon\ExamenAmazon\obj\Debug\netcoreapp3.1\ExamenAmazon.dll
+C:\Users\Tangol\source\repos\ExamenAmazon\ExamenAmazon\obj\Debug\netcoreapp3.1\ExamenAmazon.pdb
